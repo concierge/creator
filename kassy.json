@@ -1,0 +1,10 @@
+{
+	"name": "creator",
+	"version": 2.0,
+	"startup": "creator.js",
+	"command": "creator",
+	"priority": "first",
+	"help": [
+		["{{commandPrefix}}creator", "Lists contributors to this platform", "Lists contributors to this platform extended"]
+	]
+}
